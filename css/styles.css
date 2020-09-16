@@ -13,3 +13,6 @@
 ul.a {
     list-style-type: circle;
   }
+  .borderRadius {
+    border-radius: 50%;
+  }
